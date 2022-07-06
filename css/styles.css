@@ -1,0 +1,12 @@
+.testimonial-img{
+    width: 50%;
+    margin: 20px;
+}
+
+.carousel-item{
+    padding: 7% 15%;
+}
+
+#carousel{
+    background-color: #ccc;
+}
